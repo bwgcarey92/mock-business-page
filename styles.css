@@ -1,0 +1,57 @@
+html {
+    font-family: Montserrat, sans-serif;
+    background-color: black;
+    color: white;
+  }
+  
+  .header h1 {
+    font-family: Yeseva One, serif;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .banner {
+    background-image: url(https://media.istockphoto.com/id/1351356360/vector/christmas-decoration-reindeer-silhouette-deer-christmas-motif-vector-illustration-isolated.jpg?s=612x612&w=0&k=20&c=8Ue_ioWL3rUdWeq4NXk1GJAKdZADDcxSAYEWqJ3oF3I=);
+    height: 100px;
+    width: 100%;
+    background-size: contain;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .ourstory {
+    text-align: right;
+    border: 2px solid white;
+    margin: 0;
+    padding: 5;
+    width: auto;
+  }
+  
+  img {
+    height: auto;
+    width: 200px;
+  }
+  
+  .producttype {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: auto;
+    width: auto;
+  }
+  
+  .product {
+    display: flex;
+    justify-content: space-between;
+    height: ;
+    width: ;
+  }
